@@ -1,0 +1,7 @@
+com/ak/nifi/custom/processor/flightaware/utils/FlightawareRelationType.class
+com/ak/nifi/custom/processor/flightaware/GetFlightAware.class
+com/ak/nifi/custom/processor/flightaware/GetFlightAware$1.class
+com/ak/nifi/custom/processor/flightaware/utils/FlightawareValidator$1.class
+com/ak/nifi/custom/processor/flightaware/GetFlightAware$2.class
+com/ak/nifi/custom/processor/flightaware/utils/FlightawareDataReader.class
+com/ak/nifi/custom/processor/flightaware/utils/FlightawareValidator.class
